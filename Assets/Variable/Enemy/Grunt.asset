@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35953a112f655dd4aa6da2e97928c666, type: 3}
+  m_Name: Grunt
+  m_EditorClassIdentifier: 
+  Health: 40
+  Score: 40
+  Damage: 10
+  MovementSpeed: 1
+  AttackRate: 1
+  BulletSpeed: 1
+  DetectRange: 1
+  ActionRange: 1
